@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #f7f7f7;
+  background-color: #302d6a;
 }
 
 /* Banner image*/
@@ -22,7 +22,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #302d6a;
+  background-color: #271745;
   top: 0;
   width: 100%;
   text-align: center;
@@ -37,18 +37,18 @@ nav ul li{
 /* the nav text */
 nav li a{
   display: block;
-  color: #b19361;
+  color: #8f427d;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 nav li:hover{
-  background-color: #20143a;
+  background-color: #241540;
 }
 
 nav #active{
-  background-color: #271745;
+  background-color: #bc9956;
 }
 
 /* Styling for the main section*/
@@ -60,8 +60,8 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: #241540;
-  font-family: 'Caesar Dressing';
+  color: #bc9956;
+  font-family: "Playwrite Italia Moderna", Arial, Helvetica, sans-serif; 
   font-size: 60px;
   text-align: center;
   margin-bottom: 1rem;
